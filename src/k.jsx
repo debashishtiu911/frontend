@@ -1,0 +1,1 @@
+export default  basURL="http://localhost:8080";
